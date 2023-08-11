@@ -1,5 +1,7 @@
 colorama
 requests
 asyncio
+Rust==1.56.0
 firebase-admin
 python-dotenv
+
